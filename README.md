@@ -14,7 +14,7 @@ The House Price Prediction project is a data-driven endeavor aimed at forecastin
 * RandomForestClassifier: A tree-based ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes as the prediction.
 * Ridge Regression: A variant of linear regression that incorporates regularization to prevent overfitting by penalizing large coefficients.
 
- ####3.Performance Evaluation:
+ #### 3.Performance Evaluation:
 
 * Linear Model Accuracy: Achieved an accuracy of 57%.
 * Ridge Model Accuracy: Also achieved an accuracy of 57%.
